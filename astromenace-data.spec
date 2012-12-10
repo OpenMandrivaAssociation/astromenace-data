@@ -122,3 +122,17 @@ rm -f %{_datadir}/astromenace/gamelang.vfs
 %{_datadir}/astromenace/DATA_DE
 %{_datadir}/astromenace/gamelang_de.vfs
 
+
+
+%changelog
+* Mon Sep 26 2011 Andrey Bondrov <abondrov@mandriva.org> 1.2-1mdv2011.0
++ Revision: 701342
+- imported package astromenace-data
+
+
+* Mon Sep 26 2011 Andrey Bondrov <bondrov@math.dvgu.ru> 1.2-1mdv2010.2
+- Spec cleanup
+
+* Sat Nov 21 2009 Andrey Bondrov <bondrov@math.dvgu.ru> 1.2-1mib2009.1
+- First build for MIB users
+- Mandriva Italia Backports
