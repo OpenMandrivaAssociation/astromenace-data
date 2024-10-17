@@ -4,7 +4,7 @@ Release:	%mkrel 1
 Summary:	Hardcore 3D space shooter with spaceship upgrade possibilities
 Group:		Games/Arcade
 License:	GPLv3
-URL:		http://www.viewizard.com/
+URL:		https://www.viewizard.com/
 Source0:	http://www.viewizard.com/download/AstroMenaceSourceArt_070928.zip
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-root
 Requires:	astromenace = %{version}
